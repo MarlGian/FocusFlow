@@ -15,3 +15,5 @@ just vibe coded it and took me 3hrs to make it fully functional but has some bug
 
 this is the exe file!
 https://limewire.com/d/i4QjK#oyV8Bb6Wgh
+
+(i debugged, directed and let the ai do the coding but still understand the stuff!!!)
