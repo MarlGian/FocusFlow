@@ -17,3 +17,4 @@ this is the exe file!
 https://limewire.com/d/i4QjK#oyV8Bb6Wgh
 
 (i debugged, directed and let the ai do the coding but still understand the stuff!!!)
+(also went through hell with optimizing it, using jpackage it goes to 253MB because of JRE needed to be implemeted inside the software, but found the solution of only using jlink, and it goes from 253MB to 26MB, so lucky me! lol)
